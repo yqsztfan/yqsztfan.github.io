@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[如何写教程]]></title>
+    <url>%2F2018%2F01%2F24%2F%E5%A6%82%E4%BD%95%E5%86%99%E6%95%99%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[准备小书匠编辑器：http://soft.xiaoshujiang.com/使用makedown编写，一篇教程：https://www.jianshu.com/p/q81RER 路过图床：https://imgchr.com/ （用于获得图片外链）账号：tfan 密码社团群里公告文章开头每写一篇教程，创建一个相册，与文档名一样复制图片代码到编辑器 百度网盘 ：https://pan.baidu.com/ （用于分享文件）账号：yqsz_tfan 密码社团群里公告分享的文件记得分类 最后将.md文件放到D:\000blog\PortableHexo\hexo\source_posts 执行D:\000blog\PortableHexo下的“渲染并部署.bat” 显示器上贴的50那台电脑 每篇教程的文档和图片记得保留，上传到百度网盘或者群里特定的文件夹]]></content>
+      <tags>
+        <tag>社团相关</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[初识arduino]]></title>
+    <url>%2F2018%2F01%2F23%2F%E5%88%9D%E8%AF%86Arduino%2F</url>
+    <content type="text"><![CDATA[什么是arduino欢迎来到Arduino的世界！Arduino是一个开源的开发平台，在全世界范围内成千上万的人正在用它开发制作一个又一个电子产品，这些电子产品包括从平时生活的小物件到时下流行的3D打印机，它降低了电子开发的门槛，即使是从零开始的入门者也能迅速上手，制作有趣的东西，这便是开源Arduino的魅力。 Arduino不只是电路板Arduino是一种开源的电子平台，该平台最初主要基于AVR单片机的微控制器和相应的开发软件，目前在国内正受到电子发烧友的广泛关注。自从2005年Arduino腾空出世以来，其硬件和开发环境一直进行着更新迭代。现在Arduino已经有将近十年的发展历史，因此市场上称为Arduino的电路板已经有各式各样的版本了。Arduino开发团队正式发布的是Arduino Uno和Arduino Mega 2560。 Arduino项目起源于意大利，该名字在意大利是男性用名，音译为“阿尔杜伊诺”，意思为“强壮的朋友”，通常作为专有名词，在拼写时首字母需要大写。其创始团队成员包括：Massimo Banzi、David Cuartielles、Tom Igoe、Gianluca Martino、David Mellis和Nicholas Zambetti 6人。Arduino的出现并不是偶然，Arduino最初是为一些非电子工程专业的学生设计的。设计者最初为了寻求一个廉价好用的微控制器开发板从而决定自己动手制作开发板，Arduino一经推出，因其开源、廉价、简单易懂的特性迅速受到了广大电子迷的喜爱和推崇。几乎任何人，即便不懂电脑编程，利用这个开发板也能用Arduino做出炫酷有趣的东西，比如对感测器探测做出一些回应、闪烁灯光、控制马达等。 为什么要使用Arduino在嵌入式开发中，根据不同的功能开发者会用到各种不同的开发平台。而Arduino作为新兴开发平台，在短时间内受到很多人的欢迎和使用，这跟其设计的原理和思想是密切相关的。 首先，Arduino无论是硬件还是软件都是开源的，这就意味着所有人都可以查看和下载其源码、图表、设计等资源，并且用来做任何开发都可以。用户可以购买克隆开发板和基于Arduino的开发板，甚至可以自己动手制作一个开发板。但是自己制作的不能继续使用Arduino这个名称，可以自己命名，比如Robotduino。 其次，正如林纳斯·本纳第克特·托瓦兹的Linux操作系统一样，开源还意味着所有人可以下载使用并且参与研究和改进Arduino，这也是Arduino更新换代如此迅速的原因。全世界各种电子爱好者用Arduino开发出各种有意思的电子互动产品。有人用它制作了一个自动除草机，去上班的时候打开，不久花园里的杂草就被清除干净了！有人用它制作微博机器人，配合一些传感器监测植物的状态，并及时发微博来提醒主人，植物什么时间该浇水、施肥、除草等，非常有趣。 Arduino项目展示 如何学习arduinoarduino中文社区：中文教程（传送门：http://www.arduino.cn/thread-1066-1-1.html）。 Arduino套件https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-17789030276.30.6a2b0e6cYc3pvH&amp;id=13626470565 https://detail.tmall.com/item.htm?spm=a1z10.5-b-s.w4011-17379347110.103.5762dc0dNg96Um&amp;id=529548836700&amp;rn=5d20c487bc260c33d235d1d31020de7f&amp;abbucket=4&amp;skuId=3154476173717]]></content>
+      <tags>
+        <tag>Arduino</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[PyCharm 2017 汉化方法(windows)]]></title>
+    <url>%2F2018%2F01%2F21%2Fpycharm%E6%B1%89%E5%8C%96%2F</url>
+    <content type="text"><![CDATA[一、首先下载PyCharm 2017最新版汉化包链接: https://pan.baidu.com/s/1hsU55xa 密码: bng6 二、将D:\Pycharm\PyCharm Community Edition 2017.3.3\lib（pycharm安装目录）目录下的resources_en.jar文件复制出来，并更名为resources_cn.jar 三、双击打开resources_cn.jar（注意是打开而不是解压出来），将下载的汉化包zh_CN目录下的所有文件拖到刚才打开的resources_cn.jar文件内的messages目录中，并保存四、将resources_cn.jar文件复制回C:\Program Files (x86)\JetBrains\PyCharm 2017\lib目录]]></content>
+      <tags>
+        <tag>python</tag>
+        <tag>pycharm</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[PyCharm 常用设置]]></title>
+    <url>%2F2018%2F01%2F21%2FPycharm%E5%B8%B8%E7%94%A8%E8%AE%BE%E7%BD%AE%2F</url>
+    <content type="text"><![CDATA[点击菜单 File =&gt; Settings，打开 PyCharm 设置对话框 点击 Appearance &amp; Behavior =&gt; Appearance，设置 IDE 主题 （Theme），推荐 Darcula 点击 Editor =&gt; Font 设置代码编辑器的字体和字号 字号 (Size) 推荐设置为 14，默认的 12 偏小，看久了辣眼睛 点击 Editor =&gt; Color Scheme 设置代码编辑器样式 (Color Scheme)，推荐 Monokai 最后，点击 OK 保存设置]]></content>
+      <tags>
+        <tag>python</tag>
+        <tag>pycharm</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[PyCharm 2017官网下载安装设置教程]]></title>
+    <url>%2F2018%2F01%2F21%2FPycharm%E5%AE%89%E8%A3%85%2F</url>
+    <content type="text"><![CDATA[一、安装 Python 3.5.2首先，要安装好 Python 3.5.2。如果你还没有安装，可以参考之前的教程。 Python 3.5.2 官网 下载 安装 测试 入门教程 (windows) 二、官网 下载 安装 PyCharm 20171.下载 PyCharm 2017 安装包可以直接上 PyCharm 的官网下载相应版本的安装包https://www.jetbrains.com/pycharm/download/#section=windows 2. 安装 PyCharm 2017双击下载好的 PyCharm 安装包，启动安装程序 点击 Next，进入下一步 更改安装路径。通常，我们不希望把所有软件都装在 C 盘。 这里我们把默认安装路径的 C: 替换成 D: 将 PyCharm 安装到 D 盘。 勾选 Create Desktop shortcut (创建桌面快捷方式) 和 Create associations (关联 Python 源代码文件) 点击 Next，继续下一步 点击 Install，开始安装 勾选 Run PyCharm Community Edition (在完成安装后启动 PyCharm) 点击 Finish 完成安装并启动 PyCharm 3.新建项目 &amp; 执行代码1. 初次使用 PyCharm第一次打开 PyCharm，它会询问我们是否要导入先前的设置（默认不导入） 因为我们是全新安装，所以这里直接点击 OK 就可以了 2. 新建项目点击 Create New Project，新建项目 在 Location 一栏输入项目的路径 另外，要注意 Interpreter 一栏默认应该指向 Python 解释器， 如果 Interpreter 一栏是空的，那就代表 Python 没有安装正确。 点击 Create 创建项目 点击 Close，关闭 Tips 窗口（Tips 用来展示 PyCharm 使用的各种小技巧） 3. 新建 Python 源代码文件点击菜单 File =&gt; New，新建文件 选择 Python File，新建 Python 源代码文件 输入文件名test（PyCharm 会自动添加后缀 .py），点击 OK，创建文件 在代码编辑器中输入简单的测试代码print(&quot;hello,python&quot;) 4. 运行程序在代码编辑器中，点击鼠标右键，在弹出的的菜单中，点击 Run hello，运行程序 PyCharm 底部自动弹出 console 窗口，可以看到程序执行的结果]]></content>
+      <tags>
+        <tag>python</tag>
+        <tag>pycharm</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python pip 下载速度慢 Windows 设置 国内源，用 阿里云 国内镜像 加速]]></title>
+    <url>%2F2018%2F01%2F20%2FPython%20pip%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E6%85%A2Windows%E8%AE%BE%E7%BD%AE%E5%9B%BD%E5%86%85%E6%BA%90%EF%BC%8C%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F%2F</url>
+    <content type="text"><![CDATA[pip 提供了对 Python 包的查找、下载、安装、卸载的功能，是非常方便的 Python 包管理工具。但是，令人苦恼的是 pip 在国内的下载速度非常慢，速度常常只有每秒几十 K，甚至才几 K，小点的包还好，还能等，更多的时候，则是完全要把人逼疯的节奏。 在 Windows 下，为 pip 设置国内源。设置完成之后，速度可以达到每秒好几 M，快到飞起来。这里我们选用阿里云的国内镜像。毕竟有大金主支持，稳定性有保障。 一、新建 pip 配置文件夹先在 windows “文件资源管理器” 地址栏 输入 %APPDATA% 按回车，打开程序自定义设置文件夹 然后，创建名为 pip 的文件夹，用于存放 pip 配置文件 二、新建 pip 配置文件在刚才创建好的 pip 文件夹中，新建 名为 pip.ini 的配置文件 三、设置 pip 国内源 (使用 阿里云 国内镜像)在 pip.ini 文件中输入以下内容，然后保存 12345[global]index-url=http://mirrors.aliyun.com/pypi/simple/ [install]trusted-host=mirrors.aliyun.com]]></content>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python 3.5.2 官网 下载 安装 测试 入门教程 (windows)]]></title>
+    <url>%2F2018%2F01%2F20%2FPython%203.5.2%E5%AE%98%E7%BD%91%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E6%B5%8B%E8%AF%95%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%20(windows)%2F</url>
+    <content type="text"><![CDATA[1. 官网下载 Python 3.5.2访问 Python 官网 https://www.python.org/downloads/release/python-352/拉到网页最下面 2. 安装 Python 3.5.2双击 下载的安装包 python-3.5.2.exe 注意要勾选：Add Python 3.5 to PATH 点击 Customize installation（方便我们自定义安装路径）进入一步 点击 Next 勾选 Install for all users 在 Cusomize install location 一栏，修改安装路径 通常，我们不希望把软件安装在 C 盘， 一个最简便的方法就是把默认安装路径里的 C: 改成 D: （安装到 D 盘） 然后点击 Install 在弹出请求权限的对话框中，点击 Yes 然后，自动开始安装 最后，点击 Close，完成安装 3. 测试/验证 安装点击 开始菜单 =&gt; Python 3.5 可以看到 Python 3.5.2的 2 个启动程序：IDLE 和 Python 3.6 下面，我们分别来验证一下 IDLE 点击 IDLE 输入 Python 测试代码，例如 1print("hello,python") 在桌面按住Shift ，右击 Finsh]]></content>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[油猴脚本]]></title>
+    <url>%2F2018%2F01%2F07%2F%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%2F</url>
+    <content type="text"><![CDATA[软件简介：Tampermonkey，这是一个伟大的Chrome扩展。可以说，就算Chrome没有其他扩展，只有Tampermonkey，Chrome依然能吸引到一大群死忠。当然，也只有高手中的高手，才能领略到Tampermonkey的优美。 Tampermonkey的魅力其实是脚本文件的魅力。现代的网页特效缤纷，外观出彩，其中CSS样式表和JavaScript脚本起到了不可或缺的作用。比如说，PConline的首页上，焦点图的切换、装机系统的实现等效果就是通过CSS和JS脚本来实现的。 Tampermonkey通过加载第三方的脚本文件，改变页面中的CSS和JS元素，可以让整个网页大变样，也可以在网页中增加额外的功能。 当然，Chrome原生也是可以加载第三方脚本文件的，不过没有Tampermonkey那样支持良好。Tampermonkey除了能对脚本文件提供更好的支持以外，还有Tamperfire功能，能够根据站点寻找相适应的脚本文件。 安装油猴脚本http://tampermonkey.net/ Greasy Fork - 安全、有用的用户脚本大全：https://greasyfork.org/zh-CN功能：百度网盘直接下载全能VIP音乐在线解析贴吧页面精简去广告 脚本的功能强大到你不敢想象！ 脚本使用每个脚本的下载页面的下面一般都有使用教程 直接应该可以看懂。]]></content>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[安装虚拟机]]></title>
+    <url>%2F2018%2F01%2F06%2F%E5%AE%89%E8%A3%85%E8%99%9A%E6%8B%9F%E6%9C%BA%2F</url>
+    <content type="text"><![CDATA[什么是虚拟机虚拟机（Virtual Machine）指通过软件模拟的具有完整硬件系统功能的、运行在一个完全隔离环境中的完整计算机系统。虚拟系统通过生成现有操作系统的全新虚拟镜像，它具有真实windows系统完全一样的功能，进入虚拟系统后，所有操作都是在这个全新的独立的虚拟系统里面进行，可以独立安装运行软件，保存数据，拥有自己的独立桌面，不会对真正的系统产生任何影响 ，而且具有能够在现有系统与虚拟镜像之间灵活切换的一类操作系统。虚拟系统和传统的虚拟机（Parallels Desktop ，Vmware，VirtualBox，Virtual pc）不同在于：虚拟系统不会降低电脑的性能，启动虚拟系统不需要像启动windows系统那样耗费时间，运行程序更加方便快捷；虚拟系统只能模拟和现有操作系统相同的环境，而虚拟机则可以模拟出其他种类的操作系统；而且虚拟机需要模拟底层的硬件指令，所以在应用程序运行速度上比虚拟系统慢得多。流行的虚拟机软件有VMware(VMWare ACE）、Virtual Box和Virtual PC，它们都能在Windows系统上虚拟出多个计算机。 ——–百度百科 安装VmwareWorkStation 12.0VmwareWorkStation 12.0功能强大的桌面虚拟计算机软件，能够让用户在单一主机同时运行多个不同的操作系统。同时支持实时快照，虚拟网络，拖拽文件以及PXE等强悍功能。 安装就按一般软件的安装方法。提供几个许可证：AC182-FTG12-081ZY-J7WZT-X2UTDZV742-A3G44-H84FP-MPQEE-YQAD4FV3HA-6GX47-H88LZ-EXMGZ-WA2W0GY792-0VY17-0892Z-14PEV-ZU28DCF308-29FD2-08EKQ-NGXN9-YCHE2 VmwareWorkStation 12.0百度网盘链接：链接: https://pan.baidu.com/s/1pLOKY3D 密码: yq3z]]></content>
+      <tags>
+        <tag>虚拟机</tag>
+      </tags>
+  </entry>
+</search>
