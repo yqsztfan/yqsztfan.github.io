@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[为什么选择python]]></title>
+    <url>%2F2018%2F01%2F25%2F%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9python%2F</url>
+    <content type="text"><![CDATA[日前，教育部召开新闻发布会，介绍了《普通高中课程方案和语文等学科课程标准(2017年版)》的有关情况，并重新修订了语文等14门学科的课程标准。在此次“新课标”改革中，正式将人工智能、物联网、大数据处理正式划入新课标。 http://www.moe.gov.cn/srcsite/A26/s8001/201801/t20180115_324647.html 高中信息技术选择性必修课程是根据学生升学、个性化发展需要而设计的，包括“数据与数据结构”“网络基础”“数据管理与分析”“人工智能初步”“三维设计与创意”“开源硬件项目设计”六个模块。 高中信息技术选修课程是为满足学生的兴趣爱好、学业发展、职业选择而设计的自主选修课程，包括“算法初步““移动应用设计”以及各高中自行开设的信息技术校本课程。 相比于 2003 版课标，此次公布的“新课标”中，在技术(信息技术和通用技术)上给予了学生更大的发展选择空间。可以看出，“新课标”大幅度减少了对于基本软件使用的要求，而大幅度提升了在编程、计算思维、算法方面的思维要求，以及人工智能、开源硬件、网络空间安全等知识面要求。 最重要的原因就是浙江高考Python将取代VB]]></content>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[PyCharm设置]]></title>
+    <url>%2F2018%2F01%2F25%2FPyCharm%E8%AE%BE%E7%BD%AE%2F</url>
+    <content type="text"><![CDATA[设置点击菜单 File =&gt; Settings，打开 PyCharm 设置对话框 点击 Appearance &amp; Behavior =&gt; Appearance，设置 IDE 主题 （Theme），推荐 Darcula 点击 Editor =&gt; Font 设置代码编辑器的字体和字号 字号 (Size) 推荐设置为 14，默认的 12 偏小，看久了辣眼睛 点击 Editor =&gt; Color Scheme 设置代码编辑器样式 (Color Scheme)，推荐 Monokai 最后，点击 OK 保存设置]]></content>
+      <tags>
+        <tag>python</tag>
+        <tag>pycharm</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[2018寒假任务]]></title>
+    <url>%2F2018%2F01%2F25%2F2018%E5%AF%92%E5%81%87%E4%BB%BB%E5%8A%A1%2F</url>
+    <content type="text"><![CDATA[实验楼爬楼https://www.shiyanlou.com/自主学习Linux，Python相关知识。寒假结束将截图发到群里 推荐书籍中学生可以这样学Python：https://item.jd.com/12258900.html]]></content>
+      <tags>
+        <tag>任务</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[如何写教程]]></title>
     <url>%2F2018%2F01%2F24%2F%E5%A6%82%E4%BD%95%E5%86%99%E6%95%99%E7%A8%8B%2F</url>
     <content type="text"><![CDATA[准备小书匠编辑器：http://soft.xiaoshujiang.com/使用makedown编写，一篇教程：https://www.jianshu.com/p/q81RER 路过图床：https://imgchr.com/ （用于获得图片外链）账号：tfan 密码社团群里公告文章开头每写一篇教程，创建一个相册，与文档名一样复制图片代码到编辑器 百度网盘 ：https://pan.baidu.com/ （用于分享文件）账号：yqsz_tfan 密码社团群里公告分享的文件记得分类 最后将.md文件放到D:\000blog\PortableHexo\hexo\source_posts 执行D:\000blog\PortableHexo下的“渲染并部署.bat” 显示器上贴的50那台电脑 每篇教程的文档和图片记得保留，上传到百度网盘或者群里特定的文件夹]]></content>
@@ -19,16 +44,7 @@
   <entry>
     <title><![CDATA[PyCharm 2017 汉化方法(windows)]]></title>
     <url>%2F2018%2F01%2F21%2Fpycharm%E6%B1%89%E5%8C%96%2F</url>
-    <content type="text"><![CDATA[一、首先下载PyCharm 2017最新版汉化包链接: https://pan.baidu.com/s/1hsU55xa 密码: bng6 二、将D:\Pycharm\PyCharm Community Edition 2017.3.3\lib（pycharm安装目录）目录下的resources_en.jar文件复制出来，并更名为resources_cn.jar 三、双击打开resources_cn.jar（注意是打开而不是解压出来），将下载的汉化包zh_CN目录下的所有文件拖到刚才打开的resources_cn.jar文件内的messages目录中，并保存四、将resources_cn.jar文件复制回C:\Program Files (x86)\JetBrains\PyCharm 2017\lib目录]]></content>
-      <tags>
-        <tag>python</tag>
-        <tag>pycharm</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[PyCharm 常用设置]]></title>
-    <url>%2F2018%2F01%2F21%2FPycharm%E5%B8%B8%E7%94%A8%E8%AE%BE%E7%BD%AE%2F</url>
-    <content type="text"><![CDATA[点击菜单 File =&gt; Settings，打开 PyCharm 设置对话框 点击 Appearance &amp; Behavior =&gt; Appearance，设置 IDE 主题 （Theme），推荐 Darcula 点击 Editor =&gt; Font 设置代码编辑器的字体和字号 字号 (Size) 推荐设置为 14，默认的 12 偏小，看久了辣眼睛 点击 Editor =&gt; Color Scheme 设置代码编辑器样式 (Color Scheme)，推荐 Monokai 最后，点击 OK 保存设置]]></content>
+    <content type="text"><![CDATA[首先下载PyCharm 2017最新版汉化包链接: https://pan.baidu.com/s/1hsU55xa 密码: bng6 将D:\Pycharm\PyCharm Community Edition 2017.3.3\lib（pycharm安装目录）目录下的resources_en.jar文件复制出来，并更名为resources_cn.jar 双击打开resources_cn.jar（注意是打开而不是解压出来），将下载的汉化包zh_CN目录下的所有文件拖到刚才打开的resources_cn.jar文件内的messages目录中，并保存将resources_cn.jar文件复制回C:\Program Files (x86)\JetBrains\PyCharm 2017\lib目录]]></content>
       <tags>
         <tag>python</tag>
         <tag>pycharm</tag>
@@ -46,7 +62,7 @@
   <entry>
     <title><![CDATA[Python pip 下载速度慢 Windows 设置 国内源，用 阿里云 国内镜像 加速]]></title>
     <url>%2F2018%2F01%2F20%2FPython%20pip%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E6%85%A2Windows%E8%AE%BE%E7%BD%AE%E5%9B%BD%E5%86%85%E6%BA%90%EF%BC%8C%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F%2F</url>
-    <content type="text"><![CDATA[pip 提供了对 Python 包的查找、下载、安装、卸载的功能，是非常方便的 Python 包管理工具。但是，令人苦恼的是 pip 在国内的下载速度非常慢，速度常常只有每秒几十 K，甚至才几 K，小点的包还好，还能等，更多的时候，则是完全要把人逼疯的节奏。 在 Windows 下，为 pip 设置国内源。设置完成之后，速度可以达到每秒好几 M，快到飞起来。这里我们选用阿里云的国内镜像。毕竟有大金主支持，稳定性有保障。 一、新建 pip 配置文件夹先在 windows “文件资源管理器” 地址栏 输入 %APPDATA% 按回车，打开程序自定义设置文件夹 然后，创建名为 pip 的文件夹，用于存放 pip 配置文件 二、新建 pip 配置文件在刚才创建好的 pip 文件夹中，新建 名为 pip.ini 的配置文件 三、设置 pip 国内源 (使用 阿里云 国内镜像)在 pip.ini 文件中输入以下内容，然后保存 12345[global]index-url=http://mirrors.aliyun.com/pypi/simple/ [install]trusted-host=mirrors.aliyun.com]]></content>
+    <content type="text"><![CDATA[pip 提供了对 Python 包的查找、下载、安装、卸载的功能，是非常方便的 Python 包管理工具。但是，令人苦恼的是 pip 在国内的下载速度非常慢，速度常常只有每秒几十 K，甚至才几 K，小点的包还好，还能等，更多的时候，则是完全要把人逼疯的节奏。 在 Windows 下，为 pip 设置国内源。设置完成之后，速度可以达到每秒好几 M，快到飞起来。这里我们选用阿里云的国内镜像。毕竟有大金主支持，稳定性有保障。 新建 pip 配置文件夹先在 windows “文件资源管理器” 地址栏 输入 %APPDATA% 按回车，打开程序自定义设置文件夹 然后，创建名为 pip 的文件夹，用于存放 pip 配置文件 新建 pip 配置文件在刚才创建好的 pip 文件夹中，新建 名为 pip.ini 的配置文件 设置 pip 国内源 (使用 阿里云 国内镜像)在 pip.ini 文件中输入以下内容，然后保存 12345[global]index-url=http://mirrors.aliyun.com/pypi/simple/ [install]trusted-host=mirrors.aliyun.com]]></content>
       <tags>
         <tag>python</tag>
       </tags>
@@ -54,7 +70,7 @@
   <entry>
     <title><![CDATA[Python 3.5.2 官网 下载 安装 测试 入门教程 (windows)]]></title>
     <url>%2F2018%2F01%2F20%2FPython%203.5.2%E5%AE%98%E7%BD%91%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E6%B5%8B%E8%AF%95%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%20(windows)%2F</url>
-    <content type="text"><![CDATA[1. 官网下载 Python 3.5.2访问 Python 官网 https://www.python.org/downloads/release/python-352/拉到网页最下面 2. 安装 Python 3.5.2双击 下载的安装包 python-3.5.2.exe 注意要勾选：Add Python 3.5 to PATH 点击 Customize installation（方便我们自定义安装路径）进入一步 点击 Next 勾选 Install for all users 在 Cusomize install location 一栏，修改安装路径 通常，我们不希望把软件安装在 C 盘， 一个最简便的方法就是把默认安装路径里的 C: 改成 D: （安装到 D 盘） 然后点击 Install 在弹出请求权限的对话框中，点击 Yes 然后，自动开始安装 最后，点击 Close，完成安装 3. 测试/验证 安装点击 开始菜单 =&gt; Python 3.5 可以看到 Python 3.5.2的 2 个启动程序：IDLE 和 Python 3.6 下面，我们分别来验证一下 IDLE 点击 IDLE 输入 Python 测试代码，例如 1print("hello,python") 在桌面按住Shift ，右击 Finsh]]></content>
+    <content type="text"><![CDATA[官网下载 Python 3.5.2访问 Python 官网 https://www.python.org/downloads/release/python-352/拉到网页最下面 安装 Python 3.5.2双击 下载的安装包 python-3.5.2.exe 注意要勾选：Add Python 3.5 to PATH 点击 Customize installation（方便我们自定义安装路径）进入一步 点击 Next 勾选 Install for all users 在 Cusomize install location 一栏，修改安装路径 通常，我们不希望把软件安装在 C 盘， 一个最简便的方法就是把默认安装路径里的 C: 改成 D: （安装到 D 盘） 然后点击 Install 在弹出请求权限的对话框中，点击 Yes 然后，自动开始安装 最后，点击 Close，完成安装 测试/验证 安装点击 开始菜单 =&gt; Python 3.5 可以看到 Python 3.5.2的 2 个启动程序：IDLE 和 Python 3.6 下面，我们分别来验证一下 IDLE 点击 IDLE 输入 Python 测试代码，例如 1print("hello,python") 在桌面按住Shift ，右击 Finsh]]></content>
       <tags>
         <tag>python</tag>
       </tags>
@@ -74,5 +90,10 @@
       <tags>
         <tag>虚拟机</tag>
       </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[about]]></title>
+    <url>%2F2016%2F11%2F15%2Findex%2F</url>
+    <content type="text"><![CDATA[关于我技术爱好者社，于2017年三月成立了，为渴望、热爱技术的同学提供了一个家，志同道合的我们必将书写一个又一个的神话。现在需要每一个加入我们的同学贡献你的力量！社团成立初期，社团的建设还存在许多不足之处，需要大家来进行优化。希望每一个加入我们的同学，都有成为一个伟大maker的愿望，并为之而努力。 计算机部：3D创意设计，按照自己的创作灵感，通过3D建模软件进行创作；程序设计，学习Linux，python；负责宣传海报，社团网站与微信公众号的开发与维护。 创意制作部：以开源软、硬件为基础，紧密结合学习和生活，对相关装备进行优化改造和创作的项目。 当然，以上说的这些也只是冰山一角。我们的征途可是星辰大海。未来等你开启，加入技术爱好者社，让三中看到你的影响力！共创辉煌，缺你不可！]]></content>
   </entry>
 </search>
