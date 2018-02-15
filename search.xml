@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[0]]></title>
-    <url>%2F2018%2F02%2F14%2F0%2F</url>
-    <content type="text"><![CDATA[## ## ##]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[(windows)Pycharm安装]]></title>
     <url>%2F2018%2F02%2F13%2Fpycharm-install%2F</url>
     <content type="text"><![CDATA[官网下载安装 PyCharm 2017下载 PyCharm 2017 安装包可以直接上 PyCharm 的官网下载相应版本的安装包https://www.jetbrains.com/pycharm/download/#section=windows 安装 PyCharm 2017双击下载好的 PyCharm 安装包，启动安装程序 点击 Next，进入下一步 更改安装路径。通常，我们不希望把所有软件都装在 C 盘。 这里我们把默认安装路径的 C: 替换成 D: 将 PyCharm 安装到 D 盘。 勾选 Create Desktop shortcut (创建桌面快捷方式) 和 Create associations (关联 Python 源代码文件) 点击 Next，继续下一步 点击 Install，开始安装 勾选 Run PyCharm Community Edition (在完成安装后启动 PyCharm) 点击 Finish 完成安装并启动 PyCharm 3.新建项目 &amp; 执行代码1. 初次使用 PyCharm第一次打开 PyCharm，它会询问我们是否要导入先前的设置（默认不导入） 因为我们是全新安装，所以这里直接点击 OK 就可以了 2. 新建项目点击 Create New Project，新建项目 在 Location 一栏输入项目的路径 另外，要注意 Interpreter 一栏默认应该指向 Python 解释器， 如果 Interpreter 一栏是空的，那就代表 Python 没有安装正确。 点击 Create 创建项目 点击 Close，关闭 Tips 窗口（Tips 用来展示 PyCharm 使用的各种小技巧） 3. 新建 Python 源代码文件点击菜单 File =&gt; New，新建文件 选择 Python File，新建 Python 源代码文件 输入文件名test（PyCharm 会自动添加后缀 .py），点击 OK，创建文件在代码编辑器中输入简单的测试代码print(&quot;hello,python&quot;) 4. 运行程序在代码编辑器中，点击鼠标右键，在弹出的的菜单中，点击 Run ‘test’，运行程序 PyCharm 底部自动弹出 console 窗口，可以看到程序执行的结果]]></content>
@@ -44,7 +39,7 @@
   <entry>
     <title><![CDATA[2018寒假任务]]></title>
     <url>%2F2018%2F01%2F25%2Fhomework-2018-2%2F</url>
-    <content type="text"><![CDATA[、 实验楼爬楼https://www.shiyanlou.com/自主学习Linux，Python相关知识。寒假结束将截图发到下面评论里！ 推荐书籍中学生可以这样学Python：https://item.jd.com/12258900.html]]></content>
+    <content type="text"><![CDATA[实验楼爬楼https://www.shiyanlou.com/自主学习Linux，Python相关知识。寒假结束将截图发到下面评论里！ 推荐书籍中学生可以这样学Python：https://item.jd.com/12258900.html]]></content>
       <categories>
         <category>任务</category>
       </categories>
@@ -57,11 +52,10 @@
     <url>%2F2018%2F01%2F24%2Fwrite-blog%2F</url>
     <content type="text"><![CDATA[准备小书匠编辑器：http://soft.xiaoshujiang.com/使用makedown编写，一篇教程：https://www.jianshu.com/p/q81RER 路过图床：https://imgchr.com/ （用于获得图片外链）账号：tfan 密码社团群里公告文章开头每写一篇教程，创建一个相册，与文档名一样复制图片代码到编辑器 百度网盘 ：https://pan.baidu.com/ （用于分享文件）账号：yqsz_tfan 密码社团群里公告分享的文件记得分类 最后将.md文件放到D:\000blog\PortableHexo\hexo\source_posts 执行D:\000blog\PortableHexo下的“渲染并部署.bat” 显示器上贴的50那台电脑 每篇教程的文档和图片记得保留，上传到百度网盘或者群里特定的文件夹]]></content>
       <categories>
-        <category>社团相关</category>
-        <category>待修改</category>
+        <category>入社必看</category>
       </categories>
       <tags>
-        <tag>社团相关</tag>
+        <tag>入社必看</tag>
       </tags>
   </entry>
   <entry>
@@ -98,7 +92,7 @@
   <entry>
     <title><![CDATA[(windows)Python 3.5.2安装]]></title>
     <url>%2F2018%2F01%2F20%2Fpython-install%2F</url>
-    <content type="text"><![CDATA[官网下载 Python 3.5.2访问 Python 官网 https://www.python.org/downloads/release/python-352/拉到网页最下面 安装 Python 3.5.2双击 下载的安装包 python-3.5.2.exe 注意要勾选：Add Python 3.5 to PATH 点击 Customize installation（方便我们自定义安装路径）进入一步 点击 Next 勾选 Install for all users 在 Cusomize install location 一栏，修改安装路径 通常，我们不希望把软件安装在 C 盘， 一个最简便的方法就是把默认安装路径里的 C: 改成 D: （安装到 D 盘） 然后点击 Install 在弹出请求权限的对话框中，点击 Yes 然后，自动开始安装 最后，点击 Close，完成安装 测试/验证 安装点击 开始菜单 =&gt; Python 3.5 可以看到 Python 3.5.2的 2 个启动程序：IDLE 和 Python 3.6 下面，我们分别来验证一下 IDLE 点击 IDLE 输入 Python 测试代码，例如 1print("hello,python") 在桌面按住Shift ，右击 Finsh]]></content>
+    <content type="text"><![CDATA[官网下载 Python 3.5.2访问 Python 官网 https://www.python.org/downloads/release/python-352/拉到网页最下面 安装 Python 3.5.2双击 下载的安装包 python-3.5.2.exe 注意要勾选：Add Python 3.5 to PATH 点击 Customize installation（方便我们自定义安装路径）进入一步 点击 Next 勾选 Install for all users 在 Cusomize install location 一栏，修改安装路径 通常，我们不希望把软件安装在 C 盘， 一个最简便的方法就是把默认安装路径里的 C: 改成 D: （安装到 D 盘） 然后点击 Install 在弹出请求权限的对话框中，点击 Yes 然后，自动开始安装 最后，点击 Close，完成安装 测试/验证 安装点击 开始菜单 =&gt; Python 3.5 可以看到 Python 3.5.2的 2 个启动程序：IDLE 和 Python 3.6 下面，我们分别来验证一下 IDLE 点击 IDLE 输入 Python 测试代码，例如 1print("hello,python")]]></content>
       <categories>
         <category>Python</category>
       </categories>
@@ -111,11 +105,11 @@
     <url>%2F2018%2F01%2F07%2Fyouhou%2F</url>
     <content type="text"><![CDATA[软件简介：Tampermonkey，这是一个伟大的Chrome扩展。可以说，就算Chrome没有其他扩展，只有Tampermonkey，Chrome依然能吸引到一大群死忠。当然，也只有高手中的高手，才能领略到Tampermonkey的优美。 Tampermonkey的魅力其实是脚本文件的魅力。现代的网页特效缤纷，外观出彩，其中CSS样式表和JavaScript脚本起到了不可或缺的作用。比如说，PConline的首页上，焦点图的切换、装机系统的实现等效果就是通过CSS和JS脚本来实现的。 Tampermonkey通过加载第三方的脚本文件，改变页面中的CSS和JS元素，可以让整个网页大变样，也可以在网页中增加额外的功能。 当然，Chrome原生也是可以加载第三方脚本文件的，不过没有Tampermonkey那样支持良好。Tampermonkey除了能对脚本文件提供更好的支持以外，还有Tamperfire功能，能够根据站点寻找相适应的脚本文件。 安装油猴脚本http://tampermonkey.net/ Greasy Fork - 安全、有用的用户脚本大全：https://greasyfork.org/zh-CN功能：百度网盘直接下载全能VIP音乐在线解析贴吧页面精简去广告 脚本的功能强大到你不敢想象！ 脚本使用每个脚本的下载页面的下面一般都有使用教程 直接应该可以看懂。]]></content>
       <categories>
-        <category>工具</category>
         <category>待修改</category>
+        <category>福利</category>
       </categories>
       <tags>
-        <tag>工具</tag>
+        <tag>福利</tag>
       </tags>
   </entry>
   <entry>
@@ -123,8 +117,8 @@
     <url>%2F2018%2F01%2F06%2FVMware-install%2F</url>
     <content type="text"><![CDATA[什么是虚拟机虚拟机（Virtual Machine）指通过软件模拟的具有完整硬件系统功能的、运行在一个完全隔离环境中的完整计算机系统。虚拟系统通过生成现有操作系统的全新虚拟镜像，它具有真实windows系统完全一样的功能，进入虚拟系统后，所有操作都是在这个全新的独立的虚拟系统里面进行，可以独立安装运行软件，保存数据，拥有自己的独立桌面，不会对真正的系统产生任何影响 ，而且具有能够在现有系统与虚拟镜像之间灵活切换的一类操作系统。虚拟系统和传统的虚拟机（Parallels Desktop ，Vmware，VirtualBox，Virtual pc）不同在于：虚拟系统不会降低电脑的性能，启动虚拟系统不需要像启动windows系统那样耗费时间，运行程序更加方便快捷；虚拟系统只能模拟和现有操作系统相同的环境，而虚拟机则可以模拟出其他种类的操作系统；而且虚拟机需要模拟底层的硬件指令，所以在应用程序运行速度上比虚拟系统慢得多。流行的虚拟机软件有VMware(VMWare ACE）、Virtual Box和Virtual PC，它们都能在Windows系统上虚拟出多个计算机。 ——–百度百科 安装VmwareWorkStation 12.0VmwareWorkStation 12.0功能强大的桌面虚拟计算机软件，能够让用户在单一主机同时运行多个不同的操作系统。同时支持实时快照，虚拟网络，拖拽文件以及PXE等强悍功能。 安装就按一般软件的安装方法。提供几个许可证：AC182-FTG12-081ZY-J7WZT-X2UTDZV742-A3G44-H84FP-MPQEE-YQAD4FV3HA-6GX47-H88LZ-EXMGZ-WA2W0GY792-0VY17-0892Z-14PEV-ZU28DCF308-29FD2-08EKQ-NGXN9-YCHE2 VmwareWorkStation 12.0百度网盘链接：链接: https://pan.baidu.com/s/1pLOKY3D 密码: yq3z]]></content>
       <categories>
-        <category>VMware</category>
         <category>待修改</category>
+        <category>VMware</category>
       </categories>
       <tags>
         <tag>VMware</tag>
