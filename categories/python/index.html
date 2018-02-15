@@ -126,7 +126,7 @@
 
 <meta property="og:type" content="website">
 <meta property="og:title" content="技术爱好者社">
-<meta property="og:url" content="yqsztfan.github.io/categories/python/index.html">
+<meta property="og:url" content="yqsztfan.github.io/categories/Python/index.html">
 <meta property="og:site_name" content="技术爱好者社">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="技术爱好者社">
@@ -159,13 +159,13 @@
 
 
 
-  <link rel="canonical" href="yqsztfan.github.io/categories/python/"/>
+  <link rel="canonical" href="yqsztfan.github.io/categories/Python/"/>
 
 
 
 
 
-  <title>分类: python | 技术爱好者社</title>
+  <title>分类: Python | 技术爱好者社</title>
   
 
 
@@ -295,7 +295,7 @@
 
     <div id="posts" class="posts-collapse">
       <div class="collection-title">
-        <h1>python<small>分类</small>
+        <h1>Python<small>分类</small>
         </h1>
       </div>
 
@@ -307,9 +307,9 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/01/25/python-selection/" itemprop="url">
+            <a class="post-title-link" href="/2018/01/20/python-pip-huanyuan/" itemprop="url">
               
-                <span itemprop="name">为什么选择python</span>
+                <span itemprop="name">(windows)Python pip 设置国内源</span>
               
             </a>
         
@@ -317,9 +317,37 @@
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
-              datetime="2018-01-25T12:22:17+08:00"
-              content="2018-01-25" >
-          01-25
+              datetime="2018-01-20T15:31:02+08:00"
+              content="2018-01-20" >
+          01-20
+        </time>
+      </div>
+
+    </header>
+  </article>
+
+
+      
+        
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+
+      <h2 class="post-title">
+        
+            <a class="post-title-link" href="/2018/01/20/python-install/" itemprop="url">
+              
+                <span itemprop="name">(windows)Python 3.5.2安装</span>
+              
+            </a>
+        
+      </h2>
+
+      <div class="post-meta">
+        <time class="post-time" itemprop="dateCreated"
+              datetime="2018-01-20T12:25:17+08:00"
+              content="2018-01-20" >
+          01-20
         </time>
       </div>
 
@@ -399,7 +427,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">17</span>
+                  <span class="site-state-item-count">9</span>
                   <span class="site-state-item-name">分类</span>
                 </a>
               </div>
@@ -410,7 +438,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">9</span>
+                  <span class="site-state-item-count">7</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>
@@ -781,48 +809,6 @@ show_date_time();
                 var $element = $(document.getElementById(url));
                 $element.find('.leancloud-visitors-count').text(newcounter.get('time'));
               },
-              error: function(newcounter, error) {
-                console.log('Failed to create');
-              }
-            });
-          }
-        },
-        error: function(error) {
-          console.log('Error:' + error.code + " " + error.message);
-        }
-      });
-    }
-
-    $(function() {
-      var Counter = AV.Object.extend("Counter");
-      if ($('.leancloud_visitors').length == 1) {
-        addCount(Counter);
-      } else if ($('.post-title-link').length > 1) {
-        showTime(Counter);
-      }
-    });
-  </script>
-
-
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-
-  
-
-<!--崩溃欺骗-->
-<script type="text/javascript" src="/js/src/crash_cheat.js"></script>
-</body>
-</html>
- },
               error: function(newcounter, error) {
                 console.log('Failed to create');
               }
