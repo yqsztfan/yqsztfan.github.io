@@ -126,7 +126,7 @@
 
 <meta property="og:type" content="website">
 <meta property="og:title" content="技术爱好者社">
-<meta property="og:url" content="yqsztfan.github.io/categories/Pycharm/index.html">
+<meta property="og:url" content="yqsztfan.github.io/categories/pycharm/index.html">
 <meta property="og:site_name" content="技术爱好者社">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="技术爱好者社">
@@ -159,13 +159,13 @@
 
 
 
-  <link rel="canonical" href="yqsztfan.github.io/categories/Pycharm/"/>
+  <link rel="canonical" href="yqsztfan.github.io/categories/pycharm/"/>
 
 
 
 
 
-  <title>分类: Pycharm | 技术爱好者社</title>
+  <title>分类: pycharm | 技术爱好者社</title>
   
 
 
@@ -295,7 +295,7 @@
 
     <div id="posts" class="posts-collapse">
       <div class="collection-title">
-        <h1>Pycharm<small>分类</small>
+        <h1>pycharm<small>分类</small>
         </h1>
       </div>
 
@@ -307,37 +307,9 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/01/25/pycharm-settings/" itemprop="url">
+            <a class="post-title-link" href="/2018/02/13/pycharm-install/" itemprop="url">
               
-                <span itemprop="name">(windows)PyCharm设置</span>
-              
-            </a>
-        
-      </h2>
-
-      <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated"
-              datetime="2018-01-25T10:12:43+08:00"
-              content="2018-01-25" >
-          01-25
-        </time>
-      </div>
-
-    </header>
-  </article>
-
-
-      
-        
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <h2 class="post-title">
-        
-            <a class="post-title-link" href="/2018/01/21/pycharm-hanhua/" itemprop="url">
-              
-                <span itemprop="name">(windows)PyCharm 2017 汉化方法</span>
+                <span itemprop="name">(windows)Pycharm安装</span>
               
             </a>
         
@@ -345,9 +317,9 @@
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
-              datetime="2018-01-21T10:42:24+08:00"
-              content="2018-01-21" >
-          01-21
+              datetime="2018-02-13T15:57:14+08:00"
+              content="2018-02-13" >
+          02-13
         </time>
       </div>
 
@@ -416,7 +388,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">12</span>
+                  <span class="site-state-item-count">13</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -427,7 +399,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">13</span>
+                  <span class="site-state-item-count">12</span>
                   <span class="site-state-item-name">分类</span>
                 </a>
               </div>
@@ -561,7 +533,7 @@ show_date_time();
     
       <span class="post-meta-item-text">Site words total count&#58;</span>
     
-    <span title="Site words total count">3.7k</span>
+    <span title="Site words total count">3.9k</span>
   
 </div>
 
@@ -810,6 +782,47 @@ show_date_time();
                 $element.find('.leancloud-visitors-count').text(newcounter.get('time'));
               },
               error: function(newcounter, error) {
+                console.log('Failed to create');
+              }
+            });
+          }
+        },
+        error: function(error) {
+          console.log('Error:' + error.code + " " + error.message);
+        }
+      });
+    }
+
+    $(function() {
+      var Counter = AV.Object.extend("Counter");
+      if ($('.leancloud_visitors').length == 1) {
+        addCount(Counter);
+      } else if ($('.post-title-link').length > 1) {
+        showTime(Counter);
+      }
+    });
+  </script>
+
+
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+<!--崩溃欺骗-->
+<script type="text/javascript" src="/js/src/crash_cheat.js"></script>
+</body>
+</html>
+         error: function(newcounter, error) {
                 console.log('Failed to create');
               }
             });
