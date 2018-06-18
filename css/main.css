@@ -1852,7 +1852,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #491aff;
+  background: #fffeda;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3138,4 +3138,10 @@ h2.about-title {
 ::selection {
   background-color: #fff159;
   color: #555;
+}
+body {
+  background: url("https://source.unsplash.com/random/1600x900");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
 }
